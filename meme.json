@@ -1,8 +1,6 @@
 {
     "memes": {
         "total": [
-            "efw9pr",
-            "efv6jr",
             "efwaac",
             "efxj2g",
             "egq4rg",
@@ -50,17 +48,17 @@
             "ekcm64",
             "ekbybs",
             "ekcv7c",
-            "ekcn8r"
+            "ekcn8r",
+            "ekddac",
+            "ekdqgc",
+            "ekenr3"
         ],
-        "unshowed": []
+        "unshowed": [
+            "ekenr3"
+        ]
     },
     "dankmemes": {
         "total": [
-            "effg35",
-            "efghir",
-            "efhrzj",
-            "efqa67",
-            "efrdq3",
             "efrbuv",
             "efpsqk",
             "efsj4c",
@@ -105,13 +103,17 @@
             "ekas8o",
             "ekb5b5",
             "ekbv5j",
-            "ekblkg"
+            "ekblkg",
+            "ekbvsj",
+            "ekd16j",
+            "ekcz1v",
+            "ekd0ay",
+            "ekdwk8"
         ],
         "unshowed": []
     },
     "cursedcomments": {
         "total": [
-            "efrdkj",
             "eftx5w",
             "eft88k",
             "efs6d9",
@@ -160,16 +162,13 @@
             "ekbk0p",
             "ekc90t",
             "ekcbck",
-            "ekaehs"
+            "ekaehs",
+            "ekd51c"
         ],
         "unshowed": []
     },
     "animemes": {
         "total": [
-            "efamq4",
-            "efbzbm",
-            "efca2r",
-            "efg8c6",
             "efh9dk",
             "effe13",
             "efeble",
@@ -215,8 +214,15 @@
             "ekb8iz",
             "ekaba3",
             "ek9urj",
-            "ekakpa"
+            "ekakpa",
+            "ekcmlt",
+            "ekc8gs",
+            "ekclri",
+            "ekdpo6",
+            "ekdzom"
         ],
-        "unshowed": []
+        "unshowed": [
+            "ekdzom"
+        ]
     }
 }
