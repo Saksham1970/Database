@@ -1,7 +1,6 @@
 {
     "memes": {
         "total": [
-            "efwaac",
             "efxj2g",
             "egq4rg",
             "egqxrp",
@@ -53,9 +52,7 @@
             "ekdqgc",
             "ekenr3"
         ],
-        "unshowed": [
-            "ekenr3"
-        ]
+        "unshowed": []
     },
     "dankmemes": {
         "total": [
@@ -169,7 +166,6 @@
     },
     "animemes": {
         "total": [
-            "efh9dk",
             "effe13",
             "efeble",
             "efnw9y",
@@ -221,8 +217,6 @@
             "ekdpo6",
             "ekdzom"
         ],
-        "unshowed": [
-            "ekdzom"
-        ]
+        "unshowed": []
     }
 }
