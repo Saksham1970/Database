@@ -56,7 +56,6 @@
     },
     "dankmemes": {
         "total": [
-            "efrbuv",
             "efpsqk",
             "efsj4c",
             "eftl6l",
@@ -108,9 +107,7 @@
             "ekdwk8",
             "ekdy9k"
         ],
-        "unshowed": [
-            "ekdy9k"
-        ]
+        "unshowed": []
     },
     "cursedcomments": {
         "total": [
@@ -218,8 +215,11 @@
             "ekc8gs",
             "ekclri",
             "ekdpo6",
-            "ekdzom"
+            "ekdzom",
+            "ekdpx2"
         ],
-        "unshowed": []
+        "unshowed": [
+            "ekdpx2"
+        ]
     }
 }
