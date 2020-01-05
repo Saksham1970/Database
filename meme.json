@@ -1,9 +1,6 @@
 {
     "memes": {
         "total": [
-            "efglh9",
-            "efs2mf",
-            "efrc9k",
             "efs6xj",
             "efs2uj",
             "eftb6j",
@@ -55,15 +52,10 @@
             "ekajwo",
             "ekatt2"
         ],
-        "unshowed": [
-            "ekau78",
-            "ekajwo",
-            "ekatt2"
-        ]
+        "unshowed": []
     },
     "dankmemes": {
         "total": [
-            "efbpiw",
             "efc87u",
             "efbsdk",
             "efcqib",
@@ -115,13 +107,10 @@
             "ek9x54",
             "ekas8o"
         ],
-        "unshowed": [
-            "ekas8o"
-        ]
+        "unshowed": []
     },
     "cursedcomments": {
         "total": [
-            "efeqwd",
             "efniu8",
             "efsnme",
             "efs7q8",
@@ -173,13 +162,10 @@
             "ek8zc4",
             "ekbk0p"
         ],
-        "unshowed": [
-            "ekbk0p"
-        ]
+        "unshowed": []
     },
     "animemes": {
         "total": [
-            "ef79ps",
             "ef86ta",
             "efa3ws",
             "efa7te",
@@ -231,8 +217,6 @@
             "ek9xi6",
             "ekb8iz"
         ],
-        "unshowed": [
-            "ekb8iz"
-        ]
+        "unshowed": []
     }
 }
