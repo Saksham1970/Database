@@ -1,8 +1,6 @@
 {
     "memes": {
         "total": [
-            "ekp27t",
-            "ekofs6",
             "ekp45z",
             "ekph2b",
             "ekpvh9",
@@ -52,16 +50,15 @@
             "el7fz3",
             "el74xw",
             "el7jzc",
-            "el7ucq"
+            "el7ucq",
+            "el74ys"
         ],
         "unshowed": [
-            "el7jzc",
-            "el7ucq"
+            "el74ys"
         ]
     },
     "dankmemes": {
         "total": [
-            "ekbv5j",
             "ekblkg",
             "ekbvsj",
             "ekd16j",
@@ -113,9 +110,7 @@
             "el76kc",
             "el7yhj"
         ],
-        "unshowed": [
-            "el7yhj"
-        ]
+        "unshowed": []
     },
     "cursedcomments": {
         "total": [
