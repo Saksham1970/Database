@@ -5,9 +5,9 @@
         "discrim": "5566",
         "role": "Player",
         "level": 35,
-        "xp": 108240,
-        "messages": 7704,
-        "rel_xp": 6565,
+        "xp": 108499,
+        "messages": 7730,
+        "rel_xp": 6824,
         "rel_bar": 7975,
         "active": true,
         "rank": 1
@@ -18,11 +18,11 @@
         "discrim": "8590",
         "role": "Player",
         "level": 25,
-        "xp": 45128,
+        "xp": 45153,
         "messages": 2890,
-        "rel_xp": 3128,
+        "rel_xp": 3153,
         "rel_bar": 4475,
-        "active": true,
+        "active": false,
         "rank": 5
     },
     "497450643007602688": {
@@ -31,11 +31,11 @@
         "discrim": "0465",
         "role": "Player",
         "level": 32,
-        "xp": 84585,
+        "xp": 84608,
         "messages": 5873,
-        "rel_xp": 4505,
+        "rel_xp": 4528,
         "rel_bar": 6820,
-        "active": true,
+        "active": false,
         "rank": 2
     },
     "635094505384574987": {
@@ -62,7 +62,7 @@
         "rel_xp": 87,
         "rel_bar": 100,
         "active": false,
-        "rank": 11
+        "rank": 12
     },
     "356808133735219212": {
         "name": "sexyboya",
@@ -70,11 +70,11 @@
         "discrim": "8393",
         "role": "Player",
         "level": 31,
-        "xp": 76933,
+        "xp": 76950,
         "messages": 5942,
-        "rel_xp": 3308,
+        "rel_xp": 3325,
         "rel_bar": 6455,
-        "active": true,
+        "active": false,
         "rank": 3
     },
     "619800189372465153": {
@@ -83,11 +83,11 @@
         "discrim": "4980",
         "role": "Player",
         "level": 26,
-        "xp": 49068,
+        "xp": 49088,
         "messages": 3696,
-        "rel_xp": 2593,
+        "rel_xp": 2613,
         "rel_bar": 4780,
-        "active": true,
+        "active": false,
         "rank": 4
     },
     "614712517901680658": {
@@ -96,11 +96,11 @@
         "discrim": "7969",
         "role": "Adventurer",
         "level": 18,
-        "xp": 19478,
+        "xp": 19500,
         "messages": 1890,
-        "rel_xp": 1103,
+        "rel_xp": 1125,
         "rel_bar": 2620,
-        "active": true,
+        "active": false,
         "rank": 6
     },
     "486590017150517248": {
@@ -109,12 +109,12 @@
         "discrim": "9436",
         "role": "Prostitute",
         "level": 0,
-        "xp": 73,
+        "xp": 96,
         "messages": 6,
-        "rel_xp": 73,
+        "rel_xp": 96,
         "rel_bar": 100,
-        "active": true,
-        "rank": 13
+        "active": false,
+        "rank": 11
     },
     "442250297570623489": {
         "name": "watupbeetch",
@@ -148,11 +148,11 @@
         "discrim": "7063",
         "role": "Adventurer",
         "level": 13,
-        "xp": 8678,
+        "xp": 8696,
         "messages": 596,
-        "rel_xp": 228,
+        "rel_xp": 246,
         "rel_bar": 1595,
-        "active": true,
+        "active": false,
         "rank": 7
     },
     "647687916084264961": {
@@ -166,7 +166,7 @@
         "rel_xp": 83,
         "rel_bar": 100,
         "active": false,
-        "rank": 12
+        "rank": 13
     },
     "244129653281914881": {
         "name": "danKartik",
