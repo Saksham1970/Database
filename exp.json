@@ -6,10 +6,10 @@
         "role": "Player",
         "level": 35,
         "xp": 109544,
-        "messages": 7860,
+        "messages": 7861,
         "rel_xp": 7869,
         "rel_bar": 7975,
-        "active": false,
+        "active": true,
         "rank": 1
     },
     "580282285002194966": {
