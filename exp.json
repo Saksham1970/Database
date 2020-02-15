@@ -4,11 +4,19 @@
         "id": "413287145323626496",
         "discrim": "5566",
         "role": "Player",
+<<<<<<< HEAD
         "level": 36,
         "xp": 110992,
         "messages": 8046,
         "rel_xp": 1342,
         "rel_bar": 8380,
+=======
+        "level": 35,
+        "xp": 108644,
+        "messages": 8038,
+        "rel_xp": 6969,
+        "rel_bar": 7975,
+>>>>>>> 0e3df218aeb2d6a7f5b421f668e68cfd6b826c75
         "active": true,
         "rank": 1
     },
@@ -19,10 +27,10 @@
         "role": "Player",
         "level": 25,
         "xp": 45153,
-        "messages": 2890,
+        "messages": 2976,
         "rel_xp": 3153,
         "rel_bar": 4475,
-        "active": false,
+        "active": true,
         "rank": 5
     },
     "497450643007602688": {
@@ -31,11 +39,17 @@
         "discrim": "0465",
         "role": "Player",
         "level": 32,
+<<<<<<< HEAD
         "xp": 84798,
         "messages": 5898,
         "rel_xp": 4718,
+=======
+        "xp": 84608,
+        "messages": 6665,
+        "rel_xp": 4528,
+>>>>>>> 0e3df218aeb2d6a7f5b421f668e68cfd6b826c75
         "rel_bar": 6820,
-        "active": false,
+        "active": true,
         "rank": 2
     },
     "635094505384574987": {
@@ -71,10 +85,10 @@
         "role": "Player",
         "level": 31,
         "xp": 76950,
-        "messages": 5942,
+        "messages": 6541,
         "rel_xp": 3325,
         "rel_bar": 6455,
-        "active": false,
+        "active": true,
         "rank": 3
     },
     "619800189372465153": {
@@ -83,11 +97,17 @@
         "discrim": "4980",
         "role": "Player",
         "level": 26,
+<<<<<<< HEAD
         "xp": 49166,
         "messages": 3700,
         "rel_xp": 2691,
+=======
+        "xp": 49088,
+        "messages": 4031,
+        "rel_xp": 2613,
+>>>>>>> 0e3df218aeb2d6a7f5b421f668e68cfd6b826c75
         "rel_bar": 4780,
-        "active": false,
+        "active": true,
         "rank": 4
     },
     "614712517901680658": {
@@ -97,10 +117,10 @@
         "role": "Adventurer",
         "level": 18,
         "xp": 19500,
-        "messages": 1890,
+        "messages": 1928,
         "rel_xp": 1125,
         "rel_bar": 2620,
-        "active": false,
+        "active": true,
         "rank": 6
     },
     "486590017150517248": {
@@ -123,10 +143,10 @@
         "role": "Prostitute",
         "level": 0,
         "xp": 51,
-        "messages": 3,
+        "messages": 11,
         "rel_xp": 51,
         "rel_bar": 100,
-        "active": false,
+        "active": true,
         "rank": 15
     },
     "602115576370036754": {
@@ -149,10 +169,10 @@
         "role": "Adventurer",
         "level": 13,
         "xp": 8696,
-        "messages": 596,
+        "messages": 1000,
         "rel_xp": 246,
         "rel_bar": 1595,
-        "active": false,
+        "active": true,
         "rank": 7
     },
     "647687916084264961": {
