@@ -5,11 +5,11 @@
         "discrim": "5566",
         "role": "Player",
         "level": 36,
-        "xp": 114203,
-        "messages": 8456,
-        "rel_xp": 4553,
+        "xp": 114220,
+        "messages": 8458,
+        "rel_xp": 4570,
         "rel_bar": 8380,
-        "active": false,
+        "active": true,
         "rank": 1
     },
     "580282285002194966": {
