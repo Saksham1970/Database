@@ -1,7 +1,7 @@
 {
-    "DEV": 0,
+    "DEV": 1,
     "cogs": {
-        "exp": 0,
+        "levels": 1,
         "fun": 0,
         "immortal": 0,
         "meme": 0,
