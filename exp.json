@@ -4,11 +4,11 @@
         "id": "413287145323626496",
         "discrim": "5566",
         "role": "Player",
-        "level": 37,
-        "xp": 141452,
-        "messages": 9655,
-        "rel_xp": 7098,
-        "rel_bar": 8795,
+        "level": 39,
+        "xp": 141476,
+        "messages": 9656,
+        "rel_xp": 5431,
+        "rel_bar": 9655,
         "active": true,
         "rank": 1
     },
@@ -17,13 +17,13 @@
         "id": "580282285002194966",
         "discrim": "8590",
         "role": "Player",
-        "level": 25,
-        "xp": 60686,
-        "messages": 2911,
-        "rel_xp": 3324,
-        "rel_bar": 4475,
+        "level": 28,
+        "xp": 60703,
+        "messages": 2912,
+        "rel_xp": 4353,
+        "rel_bar": 5420,
         "active": false,
-        "rank": 5
+        "rank": 6
     },
     "497450643007602688": {
         "name": "Karthicc",
@@ -32,10 +32,10 @@
         "role": "Player",
         "level": 32,
         "xp": 125066,
-        "messages": 5898,
+        "messages": 5899,
         "rel_xp": 4718,
         "rel_bar": 6820,
-        "active": false,
+        "active": true,
         "rank": 2
     },
     "635094505384574987": {
@@ -71,10 +71,10 @@
         "role": "Player",
         "level": 31,
         "xp": 111326,
-        "messages": 5947,
+        "messages": 5948,
         "rel_xp": 3435,
         "rel_bar": 6455,
-        "active": false,
+        "active": true,
         "rank": 3
     },
     "619800189372465153": {
@@ -84,10 +84,10 @@
         "role": "Player",
         "level": 26,
         "xp": 75105,
-        "messages": 3717,
+        "messages": 3720,
         "rel_xp": 2869,
         "rel_bar": 4780,
-        "active": false,
+        "active": true,
         "rank": 4
     },
     "614712517901680658": {
@@ -101,7 +101,7 @@
         "rel_xp": 1125,
         "rel_bar": 2620,
         "active": false,
-        "rank": 6
+        "rank": 5
     },
     "486590017150517248": {
         "name": "ShaftMaster",
@@ -149,10 +149,10 @@
         "role": "Adventurer",
         "level": 13,
         "xp": 33563,
-        "messages": 596,
+        "messages": 600,
         "rel_xp": 246,
         "rel_bar": 1595,
-        "active": false,
+        "active": true,
         "rank": 7
     },
     "647687916084264961": {
