@@ -1,13 +1,13 @@
 {
-    "DEV": 1,
+    "DEV": 0,
     "cogs": {
-        "levels": 1,
-        "fun": 1,
-        "immortal": 1,
-        "meme": 1,
-        "music": 1,
-        "phone": 1,
-        "testing": 1,
-        "utility": 1
+        "levels": 0,
+        "fun": 0,
+        "immortal": 0,
+        "meme": 0,
+        "music": 0,
+        "phone": 0,
+        "testing": 0,
+        "utility": 0
     }
 }
